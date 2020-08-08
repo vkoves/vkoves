@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Viktor 👋🏻 👨🏻‍💻
+
+I’m Viktor Köves, a front-end engineer and web accessibility specialist who is passionate about creating user experiences that are intuitive, beautiful, and accessible.
+
+Need help leveling up your web presence or accessibility? Drop me a line at [contact@viktorkoves.com](mailto:contact@viktorkoves.com)
+
+## Find me on the web
+
+- Learn more about me on [my website](https://viktorkoves.com/) 🌎
+- Writing on [my blog](https://viktorkoves.com/writing) or [my dev.to](https://dev.to/viktor_koves) 📝
+- Follow me on Twitter [@viktor_koves](https://twitter.com/viktor_koves) 🐦
 
 <!--
 **vkoves/vkoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
