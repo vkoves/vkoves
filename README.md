@@ -2,8 +2,6 @@
 
 I’m Viktor Köves, a front-end engineer and web accessibility specialist who is passionate about creating user experiences that are intuitive, beautiful, and accessible.
 
-Need help leveling up your web presence or accessibility? Drop me a line at [contact@viktorkoves.com](mailto:contact@viktorkoves.com)
-
 ## Find me on the web
 
 - Learn more about me on [my website](https://viktorkoves.com/) 🌎
