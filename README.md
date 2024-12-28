@@ -6,7 +6,7 @@ I’m Viktor Köves, a front-end engineer and web accessibility specialist who i
 
 - Learn more about me on [my website](https://viktorkoves.com/) 🌎
 - Writing on [my blog](https://viktorkoves.com/writing) or [my dev.to](https://dev.to/viktor_koves) 📝
-- Follow me on Bluesky [@viktorkoves]([https://twitter.com/viktor_koves](https://bsky.app/profile/viktorkoves.bsky.social)) 🟦
+- Follow me on Bluesky [@viktorkoves](https://bsky.app/profile/viktorkoves.bsky.social) 🟦
 
 <!--
 **vkoves/vkoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
